@@ -49,7 +49,7 @@ And a runtime env:
 `NPM_TOKEN` is used to authenticate with the npm registry to be
 able to download private repositories.
 
-`TEXT` is used to respond to all incoming HTTP requests,
+`TEXT` is used to respond to all incoming HTTP requests.
 
 Finally, `.dockerignore` is used in order to only upload files into the build
 stage that are necessary for this project to work.
