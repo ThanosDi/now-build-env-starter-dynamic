@@ -7,7 +7,7 @@ Example URL: https://now-build-env-starter-dynamic-rismihvmtj.zeit.sh/
 
 ## How to use
 
-Craete a [readonly npm token](https://docs.npmjs.com/getting-started/working_with_tokens):
+Create a [readonly npm token](https://docs.npmjs.com/getting-started/working_with_tokens):
 
 ```console
 npm token create --read-only
