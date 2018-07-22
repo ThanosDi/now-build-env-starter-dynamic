@@ -1,6 +1,5 @@
 {
   "type": "docker",
-  "features": { "cloud": "v2" },
   "public": true,
   "env": {
     "TEXT": "Hi Now!"
